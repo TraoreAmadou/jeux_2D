@@ -1,0 +1,27 @@
+TAILLE 8 6
+FOND img/grass_800_600.png
+NBZONES 16
+VOITURE	img/voiture_rouge.png
+ZONE 0 NULL
+ZONE 1 img/route_0.png
+ZONE 1 img/route_1.png
+ZONE 1 img/route_2.png
+ZONE 1 img/route_3.png
+ZONE 1 img/route_4.png
+ZONE 1 img/route_5.png
+ZONE 1 img/route_6.png
+ZONE 1 img/route_7.png
+ZONE 1 img/route_8.png
+ZONE 1 img/route_9.png
+ZONE 1 img/route_10.png
+ZONE 5 img/depart_arrivee_3.png
+ZONE 6 img/depart_arrivee_1.png
+DEPART 1 2
+ARRIVEE 6 3
+ANGLE_DEPART 0.0
+0 0 0 0 0 0 0 0
+0 9 1 1 1 1 10 0
+0 12 0 0 0 0 2 0
+0 2 0 0 0 0 13 0
+0 8 1 1 1 1 11 0
+0 0 0 0 0 0 0 0
